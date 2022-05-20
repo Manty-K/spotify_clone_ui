@@ -11,7 +11,7 @@ class UserPrefs {
     MusicArtistTile('Martin Garrix',
         'https://yt3.ggpht.com/ytc/AAUvwnhrRStY9qD7J5GPEENbaQV0y0LAC8Pn0AuCbdLTfA=s900-c-k-c0x00ffffff-no-rj'),
     MusicArtistTile('Hans Zimmer',
-        'https://www.ascap.com/~/media/site-pages/news-and-events/events/2018/sundance/composers-square/hans-zimmer.jpg'),
+        'https://i.scdn.co/image/ab6761610000e5eb371632043a8c12bb7eeeaf9d'),
   ];
 
   final favAlbums = <MusicAlbumTile>[
