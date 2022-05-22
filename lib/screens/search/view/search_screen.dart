@@ -77,8 +77,8 @@ class SearchScreen extends StatelessWidget {
                       child: Transform.rotate(
                         angle: pi / 12,
                         child: Container(
-                          height: 80,
-                          width: 80,
+                          height: 60,
+                          width: 60,
                           child: Image.network(
                               'https://picsum.photos/id/${genre.imageID}/200'),
                         ),
